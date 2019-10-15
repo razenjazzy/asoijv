@@ -1,0 +1,20 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://golpocom.com/asoijv
+Data file = /home4/dccket/public_html/asoijv/wp-content/uploads/2019/08/demo-list-3.xml
+Widget file = /home4/dccket/public_html/asoijv/wp-content/uploads/2019/08/export.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
